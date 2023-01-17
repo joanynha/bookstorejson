@@ -1,0 +1,135 @@
+{
+    "Romance": [
+      {
+        "id": 1,
+        "nome": "Orgulho e preconceito",
+        "imagem": "https://m.media-amazon.com/images/I/719esIW3D7L.jpg",
+        "ano": 1813,
+        "autor": "Jane Austen",
+        "sinopse": "Quando Elizabeth Bennet conhece o cobiçado Fitzwilliam Darcy, não demora a julgá-lo arrogante e presunçoso, afinal ele parece desprezar sua companhia, assim como a de todo mundo, demonstrando um temperamento rude e orgulhoso, impossível de agradar. Após descobrir o envolvimento do sr. Darcy nos eventos que separaram sua querida irmã Jane do jovem Bingley, Elizabeth vê seu ódio pelo detestável cavalheiro crescer. Uma surpreendente reviravolta, porém, poderá provar que as primeiras impressões nem sempre são definitivas.",
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Anna Kariênina",
+        "imagem": "https://m.media-amazon.com/images/I/61pTISHTptL.jpg",
+        "ano": 1877,
+        "autor": "Liev Tolstói",
+        "sinopse": "Rico panorama da Rússia de fins do século XIX, a obra narra, por um lado, o drama da bela e impetuosa Anna Kariênina, que, infeliz no casamento, enfrenta o julgamento cruel da alta sociedade de Moscou ao assumir sua paixão pelo conde Vrônski. Por outro lado, acompanhamos o proprietário de terras Lióvin ― alter ego do autor ― em sua busca pelo ideal de uma vida feliz no campo ao lado da jovem Kitty, bem como seus dilemas intelectuais em torno da fé e da justiça social. ",
+        "categoria_id": 1
+      },
+      {
+        "id": 1,
+        "nome": "O morro dos ventos uivantes",
+        "imagem": "https://m.media-amazon.com/images/I/71lqmkoeosL.jpg",
+        "ano": 1847,
+        "autor": "Emily Brontë",
+        "sinopse": "O morro dos ventos uivantes retrata uma trágica historia de amor e obsessão em que os personagens principais são a obstinada e geniosa Catherine Earnshaw e seu irmão adotivo, Heathcliff. Grosseiro, humilhado e rejeitado, ele guarda apenas rancor no coração, mas tem com Catherine um relacionamento marcado por amor e, ao mesmo tempo, ódio.",
+        "categoria_id": 1
+      },
+      {
+        "id": 1,
+        "nome": "Os sofrimentos do jovem Werther",
+        "imagem": "https://miro.medium.com/max/1200/1*aWRK6TTB84j7Vrw5KED22Q.jpeg",
+        "ano": 1774,
+        "autor": "Wolfgang von Goethe",
+        "sinopse": "Marcada por uma narração densa, lírica e essencialmente psicológica, a personagem atormentada de Werther tornou-se um modelo de herói pré-romântico. A obra relata a paixão devastadora de Werther pela bela Lotte, com tom confessional e intimista, por meio de cartas, a história é comovente.",
+        "categoria_id": 1
+      } 
+    ],
+
+    
+    "Fantasia": [
+        {
+          "id": 1,
+          "nome": "O Hobbit",
+          "imagem": "https://m.media-amazon.com/images/I/91M9xPIf10L.jpg",
+          "ano": 1937,
+          "autor": "J.R.R. Tolkien",
+          "sinopse": "Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos.",
+          "categoria_id": 2
+        },
+        {
+          "id": 1,
+          "nome": "O Retrato de Dorian Gray",
+          "imagem": "https://m.media-amazon.com/images/I/91EImrUxk3L.jpg",
+          "ano": 1890,
+          "autor": "Oscar Wilde",
+          "sinopse": "Dorian é um homem que se encanta com a visão de mundo hedonista do aristocrata Henry Wotton, que considera que a beleza e a satisfação sexual são as únicas coisas que importam na vida. Ele deseja então vender sua alma para que apenas um retrato seu pintado a óleo envelheça e desapareça, mantendo sua juventude eternamente.",
+          "categoria_id": 2
+        },
+        {
+          "id": 1,
+          "nome": "O nome do vento",
+          "imagem": "https://m.media-amazon.com/images/I/81f3FlBd7QL.jpg",
+          "ano": 2007,
+          "autor": "Patrick Rothfuss",
+          "sinopse": "Da infância numa trupe de artistas itinerantes, passando pelos anos vividos numa cidade hostil e pelo esforço para ingressar na escola de magia, O nome do vento acompanha a trajetória de Kote e as duas forças que movem sua vida: o desejo de aprender o mistério por trás da arte de nomear as coisas e a necessidade de reunir informações sobre o Chandriano – os lendários demônios que assassinaram sua família no passado.",
+          "categoria_id": 2
+        },
+        {
+          "id": 1,
+          "nome": "Alice no País das Maravilhas",
+          "imagem": "https://m.media-amazon.com/images/I/91hq-bopcvL.jpg",
+          "ano": 1865,
+          "autor": "Lewis Caroll",
+          "sinopse": "O livro conta a história de Alice, uma menina curiosa que segue um Coelho Branco de colete e relógio, mergulhando sem pensar na sua toca. A protagonista é projetada para um novo mundo, repleto de animais e objetos antropomórficos, que falam e se comportam como seres humanos.",
+          "categoria_id": 2
+        } 
+        ],
+      
+
+    "Ficção científica": [
+        {
+          "id": 1,
+          "nome": "Androides sonham com ovelhas elétricas?",
+          "imagem": "https://blogsemserifa.files.wordpress.com/2017/04/androides.jpg",
+          "ano": 1968,
+          "autor": "Philip K. Dick",
+          "sinopse": "Rick Deckard é um caçador de recompensas, vivendo em uma San Francisco decadente, coberta pela poeira radioativa que dizimou inúmeras espécies de animais e plantas. Um novo trabalho pode ser o ponto de virada para melhorar seu padrão de vida e realizar seu sonho de consumo: uma ovelha de verdade, para substituir a réplica elétrica que ele cria em casa. Para isso, Deckard precisa perseguir e aposentar seis androides que estão foragidos, se passando por humanos. Mas as convicções do detetive podem mudar quando percebe que a linha que separa o real do fabricado não é mais tão nítida quanto ele acreditava.",
+          "categoria_id": 3
+        },
+        {
+          "id": 1,
+          "nome": "Vinte Mil Léguas Submarinas",
+          "imagem": "https://m.media-amazon.com/images/I/A1WV9ctUeML.jpg",
+          "ano": 1870,
+          "autor": "Jules Verne",
+          "sinopse": "Resgatados do mar e feitos prisioneiros pelo enigmático capitão Nemo, o professor Aronnax, seu fiel ajudante e o exímio arpoador Ned Land passam a viver a bordo do prodigioso submarino Náutilus.",
+          "categoria_id": 3
+        },
+        {
+          "id": 1,
+          "nome": "O Fim da Infância",
+          "imagem": "https://m.media-amazon.com/images/I/71aSbmu4MzL.jpg",
+          "ano": 1953,
+          "autor": "Arthur C. Clarke",
+          "sinopse": "O homem não está sozinho no universo. Seus ocupantes, chamados de Senhores Supremos, dominam a Terra de forma pacífica e melhoram substancialmente as condições de vida. A ignorância, a guerra e a pobreza deixam de existir, dando início a uma era de ouro. Porém, uma dúvida assombra a humanidade: quais seriam os verdadeiros objetivos dos Senhores Supremos? Até quando suas políticas iriam coincidir com o bem-estar dos homens? As respostas para essas questões podem revelar uma verdade aterradora.",
+          "categoria_id": 3
+        },
+        {
+          "id": 1,
+          "nome": "Fundação",
+          "imagem": "https://m.media-amazon.com/images/I/712vJIziMgL.jpg",
+          "ano": 1951,
+          "autor": "Isaac Asimov",
+          "sinopse": "Há doze mil anos, o Império Galáctico reina, absoluto, sobre todos os mundos habitados. Mas esse reinado ignora um futuro terrível: uma crise levará a humanidade a uma era sombria de ignorância e barbárie que se estenderá por milênios. O único homem a prever a tragédia é Hari Seldon, que a partir de uma ciência recém-descoberta, a psico-história, cria um plano para preservar todo o conhecimento humano e evitar o declínio da civilização. Esse plano será a última esperança da humanidade e deverá ser colocado em prática, através dos séculos, pelos membros da Fundação.",
+          "categoria_id": 3
+        } 
+      ],
+    
+    "Gêneros": [
+      {
+        "id": 1,
+        "nome": "Romance"
+      },
+      {
+        "id": 2,
+        "nome": "Fantasia"
+      },
+      {
+        "id": 3,
+        "nome": "Ficção científica"
+      }
+    ]
+  }
