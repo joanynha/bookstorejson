@@ -1,5 +1,5 @@
 {
-    "Romance": [
+    "romance": [
       {
         "id": 1,
         "nome": "Orgulho e preconceito",
@@ -39,7 +39,7 @@
     ],
 
     
-    "Fantasia": [
+    "fantasia": [
         {
           "id": 1,
           "nome": "O Hobbit",
@@ -79,7 +79,7 @@
         ],
       
 
-    "Ficção científica": [
+    "ficcaocientifica": [
         {
           "id": 1,
           "nome": "Androides sonham com ovelhas elétricas?",
@@ -118,7 +118,7 @@
         } 
       ],
     
-    "Gêneros": [
+    "generos": [
       {
         "id": 1,
         "nome": "Romance"
