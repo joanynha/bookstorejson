@@ -19,7 +19,7 @@
         "categoria_id": 1
       },
       {
-        "id": 1,
+        "id": 3,
         "nome": "O morro dos ventos uivantes",
         "imagem": "https://m.media-amazon.com/images/I/71lqmkoeosL.jpg",
         "ano": 1847,
@@ -28,7 +28,7 @@
         "categoria_id": 1
       },
       {
-        "id": 1,
+        "id": 4,
         "nome": "Os sofrimentos do jovem Werther",
         "imagem": "https://miro.medium.com/max/1200/1*aWRK6TTB84j7Vrw5KED22Q.jpeg",
         "ano": 1774,
@@ -50,7 +50,7 @@
           "categoria_id": 2
         },
         {
-          "id": 1,
+          "id": 2,
           "nome": "O Retrato de Dorian Gray",
           "imagem": "https://m.media-amazon.com/images/I/91EImrUxk3L.jpg",
           "ano": 1890,
@@ -59,7 +59,7 @@
           "categoria_id": 2
         },
         {
-          "id": 1,
+          "id": 3,
           "nome": "O nome do vento",
           "imagem": "https://m.media-amazon.com/images/I/81f3FlBd7QL.jpg",
           "ano": 2007,
@@ -68,7 +68,7 @@
           "categoria_id": 2
         },
         {
-          "id": 1,
+          "id": 4,
           "nome": "Alice no País das Maravilhas",
           "imagem": "https://m.media-amazon.com/images/I/91hq-bopcvL.jpg",
           "ano": 1865,
@@ -90,7 +90,7 @@
           "categoria_id": 3
         },
         {
-          "id": 1,
+          "id": 2,
           "nome": "Vinte Mil Léguas Submarinas",
           "imagem": "https://m.media-amazon.com/images/I/A1WV9ctUeML.jpg",
           "ano": 1870,
@@ -99,7 +99,7 @@
           "categoria_id": 3
         },
         {
-          "id": 1,
+          "id": 3,
           "nome": "O Fim da Infância",
           "imagem": "https://m.media-amazon.com/images/I/71aSbmu4MzL.jpg",
           "ano": 1953,
@@ -108,7 +108,7 @@
           "categoria_id": 3
         },
         {
-          "id": 1,
+          "id": 4,
           "nome": "Fundação",
           "imagem": "https://m.media-amazon.com/images/I/712vJIziMgL.jpg",
           "ano": 1951,
