@@ -115,7 +115,61 @@
           "autor": "Isaac Asimov",
           "sinopse": "Há doze mil anos, o Império Galáctico reina, absoluto, sobre todos os mundos habitados. Mas esse reinado ignora um futuro terrível: uma crise levará a humanidade a uma era sombria de ignorância e barbárie que se estenderá por milênios. O único homem a prever a tragédia é Hari Seldon, que a partir de uma ciência recém-descoberta, a psico-história, cria um plano para preservar todo o conhecimento humano e evitar o declínio da civilização. Esse plano será a última esperança da humanidade e deverá ser colocado em prática, através dos séculos, pelos membros da Fundação.",
           "categoria_id": 3
-        } 
+        },
+        {
+          "id": 5,
+          "nome": "Duna",
+          "imagem": "https://m.media-amazon.com/images/I/81zN7udGRUL.jpg",
+          "ano": 1965,
+          "autor": "Frank Herbert",
+          "sinopse": "A vida do jovem Paul Atreides está prestes a mudar radicalmente. Após a visita de uma mulher misteriosa, ele é obrigado a deixar seu planeta natal para sobreviver ao ambiente árido e severo de Arrakis, o Planeta Deserto. Envolvido numa intrincada teia política e religiosa, Paul divide-se entre as obrigações de herdeiro e seu treinamento nas doutrinas secretas de uma antiga irmandade, que vê nele a esperança de realização de um plano urdido há séculos. Ecos de profecias ancestrais também o cercam entre os nativos de Arrakis. Seria ele o eleito que tornaria viáveis seus sonhos e planos ocultos?",
+          "categoria_id": 3
+        },
+        {
+          "id": 6,
+          "nome": "Frankenstein",
+          "imagem": "https://m.media-amazon.com/images/I/A1bvtg4uwdL.jpg",
+          "ano": 1818,
+          "autor": "Mary Shelley",
+          "sinopse": " Obcecado pela criação da vida, Victor Frankenstein saqueia cemitérios em busca de materiais para construir um novo ser. Mas, quando ganha vida, a estranha criatura é rejeitada por Frankenstein e lança-se com afinco à destruição de seu criador.",
+          "categoria_id": 3
+        },
+        {
+          "id": 7,
+          "nome": "Neuromancer",
+          "imagem": "https://m.media-amazon.com/images/I/91Bx5ilP+EL.jpg",
+          "ano": 1984,
+          "autor": "William Gibson",
+          "sinopse": "Neuromancer conta a história de Case, um cowboy do ciberespaço e hacker da matrix. Como punição por tentar enganar os patrões, seu sistema nervoso foi contaminado por uma toxina que o impede de entrar no mundo virtual. Agora, ele vaga pelos subúrbios de Tóquio, cometendo pequenos crimes para sobreviver, e acaba se envolvendo em uma jornada que mudará para sempre o mundo e a percepção da realidade.",
+          "categoria_id": 3
+        },
+        {
+          "id": 8,
+          "nome": "Admirável mundo novo",
+          "imagem": "https://m.media-amazon.com/images/I/61hOp6UFvCL.jpg",
+          "ano": 1932,
+          "autor": "Aldous Huxley",
+          "sinopse": "Em uma sociedade organizada segundo princípios estritamente científicos, Bernard Marx, um psicólogo, sente-se inadequado quando se compara aos outros seres de sua casta. Ao descobrir uma “reserva histórica” que preserva costumes de uma sociedade anterior – muito semelhante à do leitor – Bernard vai perceber as diferenças entre esta civilização e a sua – e a partir de um sentimento de inconformismo ele desafiará o mundo. A história de Bernard se passa em um ambiente em que a literatura, a música e o cinema só têm a função de solidificar a alienação; um universo que louva o avanço da técnica, a produção em série, a uniformidade contra a diversidade.",
+          "categoria_id": 3
+        },
+        {
+          "id": 9,
+          "nome": "A Guerra dos Mundos",
+          "imagem": "https://m.media-amazon.com/images/I/91r3rBPFgcS.jpg",
+          "ano": 1898,
+          "autor": "H. G. Wells",
+          "sinopse": "Eles vieram do espaço. Eles vieram de Marte. Com tripés biomecânicos gigantes, querem conquistar a Terra e manter os humanos como escravos. Nenhuma tecnologia terrestre parece ser capaz de conter a expansão do terror pelo planeta. É o começo da guerra mais importante da história. Como a humanidade poderá resistir à investida de um potencial bélico tão superior?",
+          "categoria_id": 3
+        },
+        {
+          "id": 10,
+          "nome": "Guerra do Velho",
+          "imagem": "https://m.media-amazon.com/images/I/71qYuQsuiUL.jpg",
+          "ano": 2005,
+          "autor": "John Scalzi",
+          "sinopse": "A humanidade finalmente chegou à era das viagens interestelares. A má notícia é que há poucos planetas habitáveis disponíveis – e muitos alienígenas lutando por eles. Para proteger a Terra e também conquistar novos territórios, a raça humana conta com tecnologias inovadoras e com a habilidade e a disposição das FCD - Forças Coloniais de Defesa. Mas, para se alistar, é necessário ter mais de 75 anos. John Perry vai aceitar esse desafio, e ele tem apenas uma vaga ideia do que pode esperar.",
+          "categoria_id": 3
+        }
       ],
     
     "generos": [
@@ -133,3 +187,5 @@
       }
     ]
   }
+
+  
