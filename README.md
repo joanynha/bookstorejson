@@ -1,21 +1,39 @@
+# :books: Livraria API JSON
 
-# LIVRARIA-API JSON-SEVER MÓDULO 3
-<h2>Projeto Individual do Módulo 3 do Curso Programadores Carioca - Senac/Resilia</h2>
+![congs](https://user-images.githubusercontent.com/109765899/213331406-8bab2418-6960-4ba7-a3b4-8530c76f7cfa.jpg)
 
-<h3 align="center">JSON-server é um dos pacotes do npm. O npm é o gerenciador nativo da linguagem Javascript, usado no ambiente de execução Node.js. Esse servidor fica responsável pela simulação de uma API completa, em poucos cliques, facilitando muito durante a realização de teste durante o período de desenvolvimento de Aplicações Web — principalmente, no front-end.</h3><br><br>
+&nbsp;
 
+## :page_facing_up: Sobre
 
+**JSON Server** é um aplicativo em **NodeJS** que serve como uma ferramenta de apoio para o desenvolvimento de aplicações. O seu uso é mais comum para desenvolvimento de front-end, em que o foco não é projetar uma API, mas, sim, a interação da pessoa usuária com a aplicação.
+
+Com **JSON Server**, podemos subir uma **API REST** em questão de segundos sem a necessidade de configurar rotas ou um banco de dados. Tudo que ele precisa é um arquivo **JSON** para guardar as informações.
+
+## 📌 Objetivo
+
+O projeto consiste em desenvolver um **JSON Server** que contenha três rotas ou mais rotas (tarefas, projetos e notas, por exemplo), onde cada
+rota deve conter quatro ou mais dados já pré-preenchidos (mokados).
+
+## 🔧 Instruções para acesso
+
+- Clone o repositório
+- Instale os pacotes necessários (**npm install**/**npm install json-server**
 - Acesse o servidor local (http://localhost:3000/)
-- Acesse o servidor remoto ()
-- Requisições get, post, put e delete (https://www.fabricadecodigo.com/json-server/)
+- Acesse o servidor remoto (https://bookstorejson.onrender.com/)
+- Requisições GET, POST, PUT, PATH e DELETE (https://www.postman.com)
+
+&nbsp;
+
+<h3 align="center">Tecnologias utilizadas:</h3> 
+
+<p align="center" float="left">
+<img width="70px" height="70px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img width="70px" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" />
+<img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="70px" height="70px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/j8z02ssteea4zj1k1nyz" />
+</p>
 
 
-<h3 align="center">Ferramentas utilizadas:</h3>
-<div style="display: inline_block" align = "center"><br>
-
-  <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="NODE JS" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
-  <img align="center" alt="" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-  <img align="center" alt="" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-            
-</div>
+#
+ ![](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=GREEN&style=for-the-badge)
