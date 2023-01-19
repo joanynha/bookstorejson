@@ -29,7 +29,7 @@ rota deve conter quatro ou mais dados já pré-preenchidos (mokados).
 
 <p align="center" float="left">
 <img width="70px" height="70px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img width="70px" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" />
+<img width="70px" height="70px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />
 <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="70px" height="70px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/j8z02ssteea4zj1k1nyz" />
 </p>
