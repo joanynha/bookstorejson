@@ -1,7 +1,16 @@
-{
+ {
     "romance": [
       {
         "id": 1,
+        "nome": "Os Miseráveis",
+        "imagem": "https://m.media-amazon.com/images/I/71L28YvPobL.jpg",
+        "ano": 1862,
+        "autor": "Victor Hugo",
+        "sinopse": "Um clássico da literatura mundial, esta obra é uma poderosa denúncia a todos os tipos de injustiça humana. Narra a emocionante história de Jean Valjean ― o homem que, por ter roubado um pão, é condenado a dezenove anos de prisão. Os miseráveis é um livro inquietantemente religioso e político, com uma das narrativas mais envolventes já criadas.",
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
         "nome": "Orgulho e preconceito",
         "imagem": "https://m.media-amazon.com/images/I/719esIW3D7L.jpg",
         "ano": 1813,
@@ -10,7 +19,7 @@
         "categoria_id": 1
       },
       {
-        "id": 2,
+        "id": 3,
         "nome": "Anna Kariênina",
         "imagem": "https://m.media-amazon.com/images/I/61pTISHTptL.jpg",
         "ano": 1877,
@@ -19,7 +28,7 @@
         "categoria_id": 1
       },
       {
-        "id": 3,
+        "id": 4,
         "nome": "O morro dos ventos uivantes",
         "imagem": "https://m.media-amazon.com/images/I/71lqmkoeosL.jpg",
         "ano": 1847,
@@ -28,14 +37,32 @@
         "categoria_id": 1
       },
       {
-        "id": 4,
+        "id": 5,
         "nome": "Os sofrimentos do jovem Werther",
         "imagem": "https://miro.medium.com/max/1200/1*aWRK6TTB84j7Vrw5KED22Q.jpeg",
         "ano": 1774,
         "autor": "Wolfgang von Goethe",
         "sinopse": "Marcada por uma narração densa, lírica e essencialmente psicológica, a personagem atormentada de Werther tornou-se um modelo de herói pré-romântico. A obra relata a paixão devastadora de Werther pela bela Lotte, com tom confessional e intimista, por meio de cartas, a história é comovente.",
         "categoria_id": 1
-      } 
+      },
+      {
+        "id": 6,
+        "nome": "Norte e sul",
+        "imagem": "https://m.media-amazon.com/images/I/61ZAQT5j0xL.jpg",
+        "ano": 1854,
+        "autor": "Elizabeth Gaskell",
+        "sinopse": "Norte e Sul retrata os efeitos da Revolução Industrial no solo inglês. As personagens principais: Mr. Thornton e Margaret dualizam o norte (industrial, sujo e sem modos) e o sul (bucólico e aristocrático). O relacionamento entre os dois pode evocar no leitor lembranças de Orgulho e Preconceito, pois, assim como na obra de Austen, as personagens de Gaskell também precisam passar por cima das convenções sociais e dos pré-conceitos em busca do amor e da realização.",
+        "categoria_id": 1
+      },
+      {
+        "id": 7,
+        "nome": "Romeu e Julieta",
+        "imagem": "https://m.media-amazon.com/images/I/81BcpLExpYL.jpg",
+        "ano": 1597,
+        "autor": "William Shakespeare",
+        "sinopse": "Há muito tempo duas famílias banham em sangue as ruas de Verona. Enquanto isso, na penumbra das madrugadas, ardem as brasas de um amor secreto. Romeu, filho dos Montéquio, e Julieta, herdeira dos Capuleto, desafiam a rixa familiar e sonham com um impossível futuro, longe da violência e da loucura.",
+        "categoria_id": 1
+      }
     ],
 
     
@@ -75,8 +102,62 @@
           "autor": "Lewis Caroll",
           "sinopse": "O livro conta a história de Alice, uma menina curiosa que segue um Coelho Branco de colete e relógio, mergulhando sem pensar na sua toca. A protagonista é projetada para um novo mundo, repleto de animais e objetos antropomórficos, que falam e se comportam como seres humanos.",
           "categoria_id": 2
-        } 
-        ],
+        },
+        {
+          "id": 5,
+          "nome": "Viagem Noturna no Trem da Via Láctea",
+          "imagem": "https://m.media-amazon.com/images/I/41jbmgqjoFL.jpg",
+          "ano": 1934,
+          "autor": "Kenji Miyazawa",
+          "sinopse": "Coletânea de contos infantis, o livro evoca uma textura de seda finamente bordada com a delicadeza e a dedicação típicas dos artesãos japoneses. Com uma imaginação engenhosa, Miyazawa entrelaça temas da mitologia budista com a modernização industrial do Japão; serenos elementos naturais dialogam com elementos urbanos e técnicos; temas épicos tradicionais alegorizam a militarização moderna; fábulas da natureza e da técnica tematizam a frágil condição humana.",
+          "categoria_id": 2
+        },
+        {
+          "id": 6,
+          "nome": "O leão, a Feiticeira e o Guarda-Roupa",
+          "imagem": "https://m.media-amazon.com/images/I/A1N4iMuqIRL.jpg",
+          "ano": 1950,
+          "autor": "C. S. Lewis",
+          "sinopse": "O Leão, a Feiticeira e o Guarda-roupa conta a história dos irmãos Pedro, Susana, Edmundo e Lúcia Pevensie. Em meio a brincadeiras na casa de um velho professor, eles descobrem um misterioso guarda-roupa que os leva a Nárnia, um reino mágico que sofre de um inverno sem fim desde que Jadis, a temida Feiticeira Branca, tomou o poder. Mas uma antiga profecia ― que envolve justamente quatro crianças, além de um fantástico leão chamado Aslan ― afirma que há esperança para o reino, contanto que se tenha coragem.",
+          "categoria_id": 2
+        },
+        {
+          "id": 7,
+          "nome": "O castelo animado",
+          "imagem": "https://m.media-amazon.com/images/I/81JPLgU-EgS.jpg",
+          "ano": 1986,
+          "autor": "Dianna Wynne Jones",
+          "sinopse": "Após, certo dia, ser amaldiçoada pela Bruxa das Terras Desoladas, a jovem Sophie Hatter se torna uma senhora de 90 anos. Receosa e insegura por conta de sua nova aparência, ela decide fugir de sua família e vai em busca de ajuda e um lugar para ficar. É então que se depara com o castelo do terrível Mago Howl, conhecido por devorar o coração das moças do povoado. No entanto, quanto mais os dias passam, mais Sophie entende que, na verdade, a realidade vai além do que se vê – e percebe que é possível, sim, encontrar humanidade e compaixão dentro de cada um.",
+          "categoria_id": 2
+        },
+        {
+          "id": 8,
+          "nome": "O último desejo",
+          "imagem": "https://m.media-amazon.com/images/I/618iEKbcBDL.jpg",
+          "ano": 1993,
+          "autor": "Andrzej Sapkowski",
+          "sinopse": "Geralt de Rívia é um bruxo sagaz e habilidoso. Um assassino impiedoso e de sangue-frio treinado, desde a infância, para caçar e eliminar monstros. Seu único objetivo: destruir as criaturas do mal que assolam o mundo. Um mundo fantástico criado por Sapkowski com claras influências da mitologia eslava. Um mundo em que nem todos os que parecem monstros são maus nem todos os que parecem anjos são bons...",
+          "categoria_id": 2
+        },
+        {
+          "id": 9,
+          "nome": "A Guerra dos Tronos",
+          "imagem": "https://m.media-amazon.com/images/I/91+1SUO3vUL.jpg",
+          "ano": 1996,
+          "autor": "George R. R. Martin",
+          "sinopse": "O verão pode durar décadas. O inverno, toda uma vida. E a guerra dos tronos começou. Como Guardião do Norte, lorde Eddard Stark não fica feliz quando o rei Robert o proclama a nova Mão do Rei. Sua honra o obriga a aceitar o cargo e deixar seu posto em Winterfell para rumar para a corte, onde os homens fazem o que lhes convém, não o que devem... e onde um inimigo morto é algo a ser admirado.",
+          "categoria_id": 2
+        },
+        {
+          "id": 10,
+          "nome": "O gigante enterrado",
+          "imagem": "https://m.media-amazon.com/images/I/91UDO3-hyKL.jpg",
+          "ano": 2015,
+          "autor": "Kazuo Ishiguro",
+          "sinopse": "Uma terra marcada por guerras recentes e amaldiçoada por uma misteriosa névoa do esquecimento. Uma população desnorteada diante de ameaças múltiplas. Um casal que parte numa jornada em busca do filho e no caminho terá seu amor posto à prova - será nosso sentimento forte o bastante quando já não há reminiscências da história que nos une?",
+          "categoria_id": 2
+        }
+      ],
       
 
     "ficcaocientifica": [
@@ -171,7 +252,57 @@
           "categoria_id": 3
         }
       ],
+
+
+    "misteriosuspense": [
+      {
+        "id": 1,
+        "nome": "E não sobrou nenhum",
+        "imagem": "https://danielacolaci.files.wordpress.com/2017/04/enaosobrounenhum.jpg",
+        "ano": 1939,
+        "autor": "Agatha Christie",
+        "sinopse": "Uma ilha misteriosa, um poema infantil, dez soldadinhos de porcelana e muito suspense são os ingredientes com que Agatha Christie constrói seu romance mais importante. Na ilha do Soldado, antiga propriedade de um milionário norte-americano, dez pessoas sem nenhuma ligação aparente são confrontadas por uma voz misteriosa com fatos marcantes de seus passados.",
+        "categoria_id": 4
+      },
+      {
+        "id": 2,
+        "nome": "Um estudo em vermelho",
+        "imagem": "https://m.media-amazon.com/images/I/81tmn7qB-bL.jpg",
+        "ano": 1887,
+        "autor": "Arthur Conan Doyle",
+        "sinopse": "O detetive Sherlock Holmes e o Dr. Watson se conhecem ao dividir um apartamento, em Londres, e investigam um crime aparentemente impossível de decifrar. Um homem é encontrado morto, sem nenhum ferimento, mas cercado por manchas de sangue. Uma estranha inscrição na parede e uma aliança de mulher são as únicas pistas aparentes do caso.",
+        "categoria_id": 4
+      },
+      {
+        "id": 3,
+        "nome": "Crime e Castigo",
+        "imagem": "https://m.media-amazon.com/images/I/916WkSH4cGL.jpg",
+        "ano": 1866,
+        "autor": "Fiódor Dostoiévski",
+        "sinopse": "Raskólnikov, um jovem estudante, pobre e desesperado, perambula pelas ruas de São Petersburgo até cometer um crime que tentará justificar por uma teoria: grandes homens, como César ou Napoleão, foram assassinos absolvidos pela História. Este ato desencadeia uma narrativa labiríntica que arrasta o leitor por becos, tabernas e pequenos cômodos, povoados de personagens que lutam para preservar sua dignidade contra as várias formas da tirania.",
+        "categoria_id": 4
+      },
+      {
+        "id": 4,
+        "nome": "Escuridão Total Sem Estrelas",
+        "imagem": "https://m.media-amazon.com/images/I/51MSfsHEjiL.jpg",
+        "ano": 2010,
+        "autor": "Stephen King",
+        "sinopse": "Apesar de ter se tornado conhecido por seus romances, Stephen King também pode ser considerado um contista de sucesso, fazendo jus à fama de mestre do terror mesmo em poucas páginas. Em Escuridão total sem estrelas, King entrega quatro histórias curtas e aterrorizantes sobre o modo como lidamos com o mundo e como o mundo lida conosco.",
+        "categoria_id": 4
+      },
+      {
+        "id": 5,
+        "nome": "A sombra do vento",
+        "imagem": "https://m.media-amazon.com/images/I/91xOzA3VHtL.jpg",
+        "ano": 2001,
+        "autor": "Carlos Ruiz Zafón",
+        "sinopse": "Barcelona, 1945. Daniel Sempere acorda na noite de seu aniversário de onze anos e percebe que já não se lembra do rosto da falecida mãe. Para consolá-lo, o pai leva o menino pela primeira vez ao Cemitério dos Livros Esquecidos. É lá que Daniel descobre A sombra do vento, romance escrito por Julián Carax, que logo se torna seu autor favorito, sua obsessão. No entanto, quando começa a buscar outras obras do escritor, Daniel descobre que alguém anda destruindo sistematicamente todos os exemplares de todos os livros que Carax já publicou, e que o que tem nas mãos pode muito bem ser o último volume sobrevivente. Junto com seu amigo Fermín, Daniel percorre a cidade, adentrando as ruelas e os segredos mais obscuros de Barcelona. Anos se passam e sua investigação inocente se transforma em uma trama de mistério, magia, loucura e assassinato. E o destino de seu autor favorito de repente parece intimamente conectado ao dele.",
+        "categoria_id": 4
+      }
+    ],
     
+
     "generos": [
       {
         "id": 1,
@@ -184,6 +315,10 @@
       {
         "id": 3,
         "nome": "Ficção científica"
+      },
+      {
+        "id": 4,
+        "nome": "Mistério/Suspense"
       }
     ]
   }
